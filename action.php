@@ -4,7 +4,7 @@ include "db.php";
  * 
  * @global type $countries
  * @staticvar int $i
- * @return array 
+ * @return table array 
  */
 function out_arr() {
 	global $countries;
